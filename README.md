@@ -54,10 +54,12 @@ Durante a execução do exercício, surgiram algumas reflexões interessantes:
 ## Exemplos e Resultados
 
 ### Antes (Imagem na pasta `inputs`):
-![imagem sem OCR](inputs/advert.jpg)
+<img
+    src="./inputs/advert.jpg">
 
-### Depois (Texto extraído salvo na pasta `output`):
-![Imagem OCR](output/advert-output-1.jpg)
+### Depois (Imagem extraída salva na pasta `output`):
+!<img
+    src="./outputs/advert-output-1.jpg">
 
 
 ---
