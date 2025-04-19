@@ -52,13 +52,12 @@ Durante a execução do exercício, surgiram algumas reflexões interessantes:
 ---
 
 ## Exemplos e Resultados
-
 ### Antes (Imagem na pasta `inputs`):
 <img
     src="./inputs/advert.jpg">
 
 ### Depois (Imagem extraída salva na pasta `output`):
-!<img
+<img
     src="./outputs/advert-output-1.jpg">
 
 
