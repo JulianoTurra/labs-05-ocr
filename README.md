@@ -33,7 +33,7 @@ Para executar o exercício, foram utilizadas as seguintes ferramentas e tecnolog
    - Foi criado um repositório no GitHub para armazenar o exercício e seus arquivos.
    
 2. **Organização do Repositório**
-   - As imagens foram salvas na pasta `inputs` e os resultados do OCR foram armazenados na pasta `output`.
+   - As imagens foram salvas na pasta `inputs` e os resultados do OCR foram armazenados na pasta `outputs`.
 
 3. **Execução do OCR**
    - As imagens foram processadas utilizando tecnologia de OCR para identificar e extrair as imagens e os textos.
